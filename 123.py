@@ -1,1 +1,2 @@
-print('0619')
+#print('0619')
+print('curry')
